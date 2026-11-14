@@ -1,6 +1,6 @@
-<img width="94" height="192" alt="5e93b104-3eaf-4e1e-b45b-9ad82e073f61" src="https://github.com/user-attachments/assets/c323751c-131f-4e90-8f63-2ca9b0557ab5" />
-<img width="94" height="192" alt="4999ca80-9964-455f-8245-fbe063a19324" src="https://github.com/user-attachments/assets/640e6338-250a-432f-867c-d3dce3f41443" />
-<img width="94" height="192" alt="83d5e9cc-ed2c-42da-b85d-01385d5d30c7" src="https://github.com/user-attachments/assets/9bafa86c-1a64-4c01-a834-f5b36d65a6f3" />
+<img width="188" height="384" alt="5e93b104-3eaf-4e1e-b45b-9ad82e073f61" src="https://github.com/user-attachments/assets/c323751c-131f-4e90-8f63-2ca9b0557ab5" />
+<img width="188" height="384" alt="4999ca80-9964-455f-8245-fbe063a19324" src="https://github.com/user-attachments/assets/640e6338-250a-432f-867c-d3dce3f41443" />
+<img width="188" height="384" alt="83d5e9cc-ed2c-42da-b85d-01385d5d30c7" src="https://github.com/user-attachments/assets/9bafa86c-1a64-4c01-a834-f5b36d65a6f3" />
 
 # 💰 Учёт финансов
 
