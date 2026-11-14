@@ -1,3 +1,4 @@
+<img width="940" height="1920" alt="5e93b104-3eaf-4e1e-b45b-9ad82e073f61" src="https://github.com/user-attachments/assets/c323751c-131f-4e90-8f63-2ca9b0557ab5" />
 # 💰 Учёт финансов
 
 🚀 **Попробовать онлайн:** https://ilya7369.github.io/Local-personal-finance-accounting/
